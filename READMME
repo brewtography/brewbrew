@@ -1,0 +1,2 @@
+echo "# brewtography.github.io" >> README.md
+git init
